@@ -1,3 +1,3 @@
 # odin-recipes
 
-This is madness!!
+My first project on github.
